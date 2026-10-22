@@ -1,0 +1,4 @@
+interface:
+  display_name: "科技讽刺寓言"
+  short_description: "把科技热点与职场荒诞写成冷幽默寓言，用具体细节铺垫制度反讽与结尾反转"
+  default_prompt: "用 $write-tech-satire 把这个话题写成一段冷幽默寓言，保留具体细节，让荒诞从角色的认真应对中显出来。"
