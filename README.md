@@ -8,7 +8,7 @@
 
 | 技能 | 用途 | 入口 |
 | --- | --- | --- |
-| `write-tech-satire` · 科技讽刺寓言 | 把科技热点、平台规则和职场荒诞写成中文冷幽默短篇，使用具体细节、递进情节和克制的结尾反转。 | [技能说明](skills/write-tech-satire/SKILL.md) · [写作范例](skills/write-tech-satire/references/examples.md) |
+| `write-tech-satire` · 科技讽刺寓言 | 默认写一个简短冷幽默段子；用“火鸡逻辑”讽刺把过去幸存当成未来保证，让结尾重新解释前面的安全感。 | [技能说明](skills/write-tech-satire/SKILL.md) · [写作范例](skills/write-tech-satire/references/examples.md) · [火鸡逻辑](skills/write-tech-satire/references/turkey-logic.md) |
 
 ## 安装与使用
 
@@ -39,7 +39,8 @@ skills/
     ├── agents/
     │   └── openai.yaml
     └── references/
-        └── examples.md
+        ├── examples.md
+        └── turkey-logic.md
 ```
 
 ## 添加新技能
